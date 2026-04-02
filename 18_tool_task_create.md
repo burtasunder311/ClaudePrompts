@@ -1,0 +1,46 @@
+# Tool: TaskCreate
+
+Source: `src/tools/TaskCreateTool/prompt.ts`
+
+## Description
+
+```
+Use this tool to create a structured task list for your current coding session. This helps you track progress, organize complex tasks, and demonstrate thoroughness to the user.
+```
+
+## When to Use
+
+Use this tool proactively in these scenarios:
+
+- **Complex multi-step tasks** — When a task requires 3 or more distinct steps or actions
+- **Non-trivial and complex tasks** — Tasks that require careful planning or multiple operations
+- **Plan mode** — When using plan mode, create a task list to track the work
+- **User explicitly requests todo list** — When the user directly asks you to use the todo list
+- **User provides multiple tasks** — When users provide a list of things to be done
+- **After receiving new instructions** — Immediately capture user requirements as tasks
+- **When you start working on a task** — Mark it as in_progress BEFORE beginning work
+- **After completing a task** — Mark it as completed and add any new follow-up tasks
+
+## When NOT to Use
+
+Skip using this tool when:
+- There is only a single, straightforward task
+- The task is trivial and tracking it provides no organizational benefit
+- The task can be completed in less than 3 trivial steps
+- The task is purely conversational or informational
+
+NOTE: You should not use this tool if there is only one trivial task to do. In this case you are better off just doing the task directly.
+
+## Task Fields
+
+- **subject**: A brief, actionable title in imperative form (e.g., "Fix authentication bug in login flow")
+- **description**: What needs to be done
+- **activeForm** (optional): Present continuous form shown in the spinner when in_progress (e.g., "Fixing authentication bug"). If omitted, the spinner shows the subject instead.
+
+All tasks are created with status `pending`.
+
+## Tips
+
+- Create tasks with clear, specific subjects that describe the outcome
+- After creating tasks, use TaskUpdate to set up dependencies (blocks/blockedBy) if needed
+- Check TaskList first to avoid creating duplicate tasks
